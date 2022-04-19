@@ -2,7 +2,7 @@
 
 * [Chaos-me | Linux-kernel-architecture](README.md)
 * [Chapter0-序言](chapter0-xu-yan/README.md)
-  * [Chaos me|Linux kernel architecture](<Chapter0-序言/0 前言.md>)
+  * [Chaos me|Linux kernel architecture](chapter0-xu-yan/chaos-me-or-linux-kernel-architecture.md)
 * [Chapter1-进程](chapter1-jin-cheng/README.md)
   * [1.1 进程表示](<Chapter1-进程/1.1 进程表示.md>)
   * [1.2 进程编号](chapter1-jin-cheng/1.2-jin-cheng-bian-hao.md)
